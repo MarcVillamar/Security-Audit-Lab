@@ -14,7 +14,7 @@ In this lab, I mimic real-world security risk assessment. Given the scenario of 
 
 - SOC1 & SOC2 documentation to better understand how they work and how to implement them.
 - GDPR documentation to follow through with accurate information on why it is necessary.
-- PCI DSS documentation to understand the importance of keeping payment infomration safe.
+- PCI DSS documentation to understand the importance of keeping payment information safe.
 
 ### Steps
 <!-- This is a comment. It won't be rendered on the webpage. drag & drop screenshots here or use imgur and reference them using imgsrc
